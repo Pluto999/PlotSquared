@@ -1,6 +1,6 @@
 name: "${name}"
 version: "${version}"
-author: Empire92
+author: Pluto999
 api: ["1.0.0"]
 main: NukkitMain
 load: STARTUP
