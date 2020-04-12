@@ -1,6 +1,12 @@
 name: "${name}"
 version: "${version}"
-author: Pluto999
+author: 
+  - Pluto999
+  - Choco
+  - LaxWasHere
+  - md_5
+  - Citymonstret
+  - Skript
 api: ["1.0.0"]
 main: NukkitMain
 load: STARTUP
